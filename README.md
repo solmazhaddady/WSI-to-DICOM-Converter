@@ -73,11 +73,13 @@ Update input/output paths in the script and run :
 
 python convert_wsi_to_dicom.py
 
+---
 ## Author 
 Solmaz Haddady
 
 Johannes Kepler University Linz (JKU), Austria 
 
+---
 ## Related Work 
 This tool was developed as part of a dermatopathology dataset preparation pipeline for TCIA (link to be added).
 
