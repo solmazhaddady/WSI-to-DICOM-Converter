@@ -45,14 +45,14 @@ also ensure:
 
 ## Input and Output structure
 
-Input Folder : 
+### Input Folder : 
 Folder contains WSI files : .svs , .mrxs , .mirax files 
 
-Output Folder :
+### Output Folder :
 Each slide will generate its own DICOM subfolder with DCOM **.dcm ** tiles :
-.........0.dcm
-.........1.dcm
-.........2.dcm
+- .........0.dcm
+- .........1.dcm
+- .........2.dcm
 .
 .
 .
