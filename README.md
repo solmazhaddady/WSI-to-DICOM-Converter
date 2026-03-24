@@ -82,4 +82,5 @@ Johannes Kepler University Linz (JKU), Austria
 ---
 ## Related Work 
 This tool was developed as part of a dermatopathology dataset preparation pipeline for TCIA (link to be added).
+This tool is part of the NMSC dataset preparation pipeline: https://github.com/solmazhaddady/NMSC-TCIA-Dataset
 
