@@ -39,8 +39,8 @@ Install dependencies:
 pip install wsidicomizer[openslide]
 
 also ensure:
-. OpenSlide is installed.
-. Python 3.8 or higher recommended .
+- OpenSlide is installed.
+- Python 3.8 or higher recommended .
 
 
 ## Input and Output structure
@@ -58,7 +58,7 @@ Each slide will generate its own DICOM subfolder with DCOM **.dcm ** tiles :
 .
 
 ## Optional Metadata Support(JSON)
-you may optionally provide a** metadata'' folder with one JSON file per slide , these will be passed to** wsidicomizer** via **--metadata flag **.
+you may optionally provide a** metadata ** folder with one JSON file per slide , these will be passed to** wsidicomizer** via **--metadata flag **.
 
 ## Conversion Parameters
 The script uses :
@@ -75,6 +75,7 @@ python convert_wsi_to_dicom.py
 
 ## Author 
 Solmaz Haddady
+
 Johannes Kepler University Linz (JKU), Austria 
 
 ## Related Work 
