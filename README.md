@@ -1,6 +1,6 @@
 # WSI-to-DICOM-Converter
 Convert whole slide images (SVS, MRXS) to DICOM format for computational pathology 
-# WSI to DICOM Converter
+### WSI to DICOM Converter
 
 This repository provides a Python-based workflow to convert **Whole Slide Images (WSIs)** from proprietary formats (`.svs`, `.mrxs`, `.mirax`) into **Digital Imaging and Communications in Medicine (DICOM)** format using the open-source tool `wsidicomizer`.
 
@@ -63,10 +63,10 @@ you may optionally provide a** metadata ** folder with one JSON file per slide ,
 ## Conversion Parameters
 The script uses :
 
-. JPEG tile encoding
-. No label image (--no-label)
-. No overview image (--no-overview)
-. Native resolution preserved
+- JPEG tile encoding
+- No label image (--no-label)
+- No overview image (--no-overview)
+- Native resolution preserved
 
 ## Usage 
 Update input/output paths in the script and run :
